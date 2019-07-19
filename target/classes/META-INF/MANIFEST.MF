@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: A08019DIRP_C2B.02.14
+Build-Jdk: 1.8.0_211
+Created-By: Maven Integration for Eclipse
+
